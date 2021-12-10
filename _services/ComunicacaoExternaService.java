@@ -19,7 +19,7 @@ import br.com.testgobots.dto.ResponseWeatherTalkDTO;
 @Service
 public class ComunicacaoExternaService {
 
-	private final String KEY = "809b14c511f15ce21ece2e776b56cdcf";
+	private final String KEY = "";
 	private final String URL_WEATHER_TALK = "https://weathertalk.gobots.com.br/model/parse";
 	private final String URL_API_OPEN_WEATHER = "https://api.openweathermap.org/data";
 	
